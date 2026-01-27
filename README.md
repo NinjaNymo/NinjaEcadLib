@@ -3,61 +3,14 @@ A repository for ECAD component libraries
 
 ## Component Colors
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Preview</th>
-      <th align="left">Hex Code</th>
-      <th align="left">Name</th>
-      <th align="left">Use</th>
-      <th align="left">Source</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color: #DEDEDE; width: 60px; border-radius: 4px;"></td>
-      <td><code>#DEDEDE</code></td>
-      <td><strong>Substrate White</strong></td>
-      <td>Resistor substrate</td>
-      <td>Altium (increased luminance)</td>
-    </tr>
-    <tr>
-      <td style="background-color: #CCCCCC; width: 60px; border-radius: 4px;"></td>
-      <td><code>#CCCCCC</code></td>
-      <td><strong>Terminal Grey</strong></td>
-      <td>Leads, terminals</td>
-      <td>Altium</td>
-    </tr>
-    <tr>
-      <td style="background-color: #333333; width: 60px; border-radius: 4px;"></td>
-      <td><code>#333333</code></td>
-      <td><strong>Casing Black</strong></td>
-      <td>Molded packages, INDC, RESC</td>
-      <td>Altium</td>
-    </tr>
-    <tr>
-      <td style="background-color: #4D4D4D; width: 60px; border-radius: 4px;"></td>
-      <td><code>#4D4D4D</code></td>
-      <td><strong>Plastic Black</strong></td>
-      <td>Connectors</td>
-      <td>Custom</td>
-    </tr>
-    <tr>
-      <td style="background-color: #614537; width: 60px; border-radius: 4px;"></td>
-      <td><code>#614537</code></td>
-      <td><strong>Capacitor Brown</strong></td>
-      <td>CAPC</td>
-      <td>KiCad</td>
-    </tr>
-    <tr>
-      <td style="background-color: #F5D578; width: 60px; border-radius: 4px;"></td>
-      <td><code>#F5D578</code></td>
-      <td><strong>Plating Gold</strong></td>
-      <td>Gold plated leads</td>
-      <td>Custom</td>
-    </tr>
-  </tbody>
-</table>
+| Preview                                                           | Hex Code  | Name                  | Use                           | Source                        |
+| :---                                                              | :---      | :---                  | :---                          | :---                          |
+| ![](https://img.shields.io/badge/%20-DEDEDE?style=for-the-badge)  | `DEDEDE`  | **Substrate White**   | Resistor substrate            | Altium (increased luminance)  |
+| ![](https://img.shields.io/badge/%20-CCCCCC?style=for-the-badge)  | `CCCCCC`  | **Terminal Grey**     | Leads, terminals              | Altium                        |
+| ![](https://img.shields.io/badge/%20-333333?style=for-the-badge)  | `333333`  | **Casing Black**      | Molded packages, INDC, RESC   | Altium                        |
+| ![](https://img.shields.io/badge/%20-4D4D4D?style=for-the-badge)  | `4D4D4D`  | **Plastic Black**     | Connectors                    | Custom                        |
+| ![](https://img.shields.io/badge/%20-614537?style=for-the-badge)  | `614537`  | **Capacitor Brown**   | CAPC                          | KiCad                         |
+| ![](https://img.shields.io/badge/%20-F5D578?style=for-the-badge)  | `F5D578`  | **Plating Gold**      | Gold plated leads             | Custom                        |
 
 
 ## Chip Component Dimensions
