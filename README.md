@@ -3,14 +3,14 @@ A repository for ECAD component libraries
 
 ## Component Colors
 
-| Preview                                                           | Hex Code  | Name                  | Use                           | Source                        |
-| :---                                                              | :---      | :---                  | :---                          | :---                          |
-| ![](https://img.shields.io/badge/%20-DEDEDE?style=for-the-badge)  | `DEDEDE`  | **Substrate White**   | Resistor, Pin 1 Marks substrate            | Altium (increased luminance)  |
-| ![](https://img.shields.io/badge/%20-CCCCCC?style=for-the-badge)  | `CCCCCC`  | **Terminal Grey**     | Leads, terminals              | Altium                        |
-| ![](https://img.shields.io/badge/%20-333333?style=for-the-badge)  | `333333`  | **Casing Black**      | Molded packages, INDC, RESC   | Altium                        |
-| ![](https://img.shields.io/badge/%20-4D4D4D?style=for-the-badge)  | `4D4D4D`  | **Plastic Black**     | Connectors                    | Custom                        |
-| ![](https://img.shields.io/badge/%20-614537?style=for-the-badge)  | `614537`  | **Capacitor Brown**   | CAPC                          | KiCad                         |
-| ![](https://img.shields.io/badge/%20-F5D578?style=for-the-badge)  | `F5D578`  | **Plating Gold**      | Gold plated leads             | Custom                        |
+| Preview                                                           | Hex Code  | Name                  | Use                               | Source                        |
+| :---                                                              | :---      | :---                  | :---                              | :---                          |
+| ![](https://img.shields.io/badge/%20-DEDEDE?style=for-the-badge)  | `DEDEDE`  | **Substrate White**   | Resistor substrate, Pin 1 Mark    | Altium (increased luminance)  |
+| ![](https://img.shields.io/badge/%20-CCCCCC?style=for-the-badge)  | `CCCCCC`  | **Terminal Grey**     | Leads, terminals                  | Altium                        |
+| ![](https://img.shields.io/badge/%20-333333?style=for-the-badge)  | `333333`  | **Casing Black**      | Molded packages, INDC, RESC       | Altium                        |
+| ![](https://img.shields.io/badge/%20-4D4D4D?style=for-the-badge)  | `4D4D4D`  | **Plastic Black**     | Connectors                        | Custom                        |
+| ![](https://img.shields.io/badge/%20-614537?style=for-the-badge)  | `614537`  | **Capacitor Brown**   | CAPC                              | KiCad                         |
+| ![](https://img.shields.io/badge/%20-F5D578?style=for-the-badge)  | `F5D578`  | **Plating Gold**      | Gold plated leads                 | Custom                        |
 
 ### Changing STEP Model Colors
 The following example shows how two color _entities_ with ID `#316` and `#317` are defined using the `COLOUR_RGB` keyword with _normalized_ RGB values (aka. _"RBG 0-1"_ or _"Unit RGB"_):
