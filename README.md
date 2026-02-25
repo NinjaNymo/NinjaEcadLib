@@ -9,6 +9,7 @@ A repository for ECAD component libraries
 | ![](https://img.shields.io/badge/%20-CCCCCC?style=for-the-badge)  | `CCCCCC`  | (0.8000,0.8000,0.8000)    | **Terminal Grey**     | Leads, terminals                  | Altium                        |
 | ![](https://img.shields.io/badge/%20-333333?style=for-the-badge)  | `333333`  | (0.2000,0.2000,0.2000)    | **Casing Black**      | Molded packages, INDC, RESC       | Altium                        |
 | ![](https://img.shields.io/badge/%20-4D4D4D?style=for-the-badge)  | `4D4D4D`  | (0.3020,0.3020,0.3020)    | **Plastic Black**     | Connectors                        | Custom                        |
+| ![](https://img.shields.io/badge/%20-CBC3B3?style=for-the-badge)  | `CBC3B3`  | (0.7961,0.7647,0.7020)    | **Plastic Yellow**    | Connectors                        | Custom                        |
 | ![](https://img.shields.io/badge/%20-614537?style=for-the-badge)  | `614537`  | (0.3804,0.2706,0.2157)    | **Capacitor Brown**   | CAPC                              | KiCad                         |
 | ![](https://img.shields.io/badge/%20-DBBC7E?style=for-the-badge)  | `DBBC7E`  | (0.8588,0.7373,0.4941)    | **Plating Gold**      | Gold plated leads                 | KiCad                         |
 
