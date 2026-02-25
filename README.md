@@ -2,7 +2,7 @@
 A repository for ECAD component libraries
 
 ## Component Colors
-|
+
 | Preview                                                           | Hex Code  |RGB 0-1 (4 decimals)       | Name                  | Use                               | Source                        |
 | :---                                                              | :---      | :---                      | :---                  | :---                              | :---                          |
 | ![](https://img.shields.io/badge/%20-DEDEDE?style=for-the-badge)  | `DEDEDE`  | (0.8706,0.8706,0.8706)    | **Substrate White**   | Resistor substrate, Pin 1 Mark    | Altium (increased luminance)  |
