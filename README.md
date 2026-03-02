@@ -57,5 +57,20 @@ _* While the STEP format only requires colors to be defined once, some STEP mode
 |   1210        |   3225    |   3.20    |   2.50    |   0.40    |
 
 
+## Pin 1 Mark
+The following is an attempt to standardize Pin 1 markings on packages such as QFNs and BGAs:
 
+* Pin 1 marks are placed in upper left corner.
+* The diameter of the Pin 1 mark is 1/10th of the package width.
+* The X and Y distances to the center of the Pin 1 mark is 1/8th of the package width.
+* The Pin 1 mark is flush with the package surface (i.e. not an indent).
 
+```
+    ├───X───┤
+┬   ┌─────────────
+│   │                
+Y   │                
+│   │                
+┴   │       ●        
+    │                
+```
