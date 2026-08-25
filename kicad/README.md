@@ -2,8 +2,8 @@
 ## Path Variables
 In KiCad, go to _Preferences_ -> _Configure Paths..._ and add the following:
 
-1. NINJALIB = C:\git\NinjaEcadLib\kicad
-2. NINJASTEP = C:\git\NinjaEcadLib\step
+1. NINJALIB = C:\git\NinjaEcadLib\kicad\
+2. NINJASTEP = C:\git\NinjaEcadLib\step\
 3. NINJADATASHEET = _your datasheet folder_
 
 Cange the paths to match where this repository is stored (C:\git in the above example).
@@ -15,7 +15,10 @@ NinjaLib = ${NINJALIB}/ninjalib-sym-table
 
 Then, go to _Preferences_ -> _Manage Footprint Libraries..._ and add:
 
+NinjaLib = ${NINJALIB}/ninjalib-fp-table
 
+### Creating New Libraries
+The two table files (ninjalib-sym-table and ninjalib-fp-table) needs to be updated with new libraries such that KiCad can load them on boot.
 
 ## Datasheets
 Datasheets are not stored in this repository for copyright reasons.
