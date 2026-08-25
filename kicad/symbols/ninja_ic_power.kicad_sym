@@ -30,7 +30,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ninja_sot:SOT65P210X110-5N"
 			(at 0 -25.146 0)
 			(show_name no)
 			(do_not_autoplace no)
