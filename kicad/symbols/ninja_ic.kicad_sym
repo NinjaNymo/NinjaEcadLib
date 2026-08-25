@@ -29,7 +29,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ninja_custom:RaspberryPi_RP2040_QFN40P700X700X90-57"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1300,7 +1300,7 @@
 			)
 		)
 		(property "Datasheet" "file://${NINJADATASHEETS}/Winbond_W25Q16JV_rev_j_2026-05-28.pdf"
-			(at 0 0 0)
+			(at -0.508 -14.732 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
