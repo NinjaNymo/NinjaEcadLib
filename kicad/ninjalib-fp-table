@@ -2,6 +2,6 @@
   (version 7)
   (lib (name "ninja_capc")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_capc.pretty")(options "")(descr ""))
   (lib (name "ninja_resc")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_resc.pretty")(options "")(descr ""))
-  (lib (name "ninja_ic")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_ic.pretty")(options "")(descr ""))
+  (lib (name "ninja_sot")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_sot.pretty")(options "")(descr ""))
   (lib (name "ninja_custom")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_custom.pretty")(options "")(descr ""))
 )
