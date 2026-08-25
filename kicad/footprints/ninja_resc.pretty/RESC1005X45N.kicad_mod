@@ -1,0 +1,155 @@
+(footprint "RESC1005X45N"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.5 -2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a6617728-99ec-4c7d-b7a3-58a917b1afbf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "RESC1005X45N"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fb2bf9fa-c1bf-4550-92db-d8c0e86fd8a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "44ca82d7-1dd2-4417-ab9b-5125e7dfd25b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6ab8cc82-1413-4214-821c-78aeab28ea36")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "H_max" "450"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25368da3-6e68-4a2b-806b-566da9a5f86c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(solder_mask_margin 0.05)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -1.1 -0.65)
+		(end 1.1 0.65)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "2966107c-4f51-42cb-b270-87aa4ff9ccda")
+	)
+	(fp_line
+		(start -0.3 -0.25)
+		(end -0.3 0.25)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "94d121b6-cf4b-4b3a-9d6a-a488cd0e9c51")
+	)
+	(fp_line
+		(start 0.3 -0.25)
+		(end 0.3 0.25)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "22eb88ac-bef5-485c-b5a6-53c23ba37749")
+	)
+	(fp_rect
+		(start -0.5 -0.25)
+		(end 0.5 0.25)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "ce282cd7-20ee-4881-8440-02a23e6e9b97")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "79899f40-22d1-40f7-b8e5-de97a4f89ce8")
+		(effects
+			(font
+				(size 0.2 0.15)
+				(thickness 0.01)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.5 0)
+		(size 0.6 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(solder_mask_margin 0.05)
+		(uuid "27152c2c-bad9-4048-97bb-a63c32b4b348")
+	)
+	(pad "2" smd roundrect
+		(at 0.5 0)
+		(size 0.6 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(solder_mask_margin 0.05)
+		(uuid "943ab380-53da-4bd4-ae5f-894dc2e2ad0a")
+	)
+	(embedded_fonts no)
+	(model "${NINJASTEP}/resc/RESC1005X45.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
