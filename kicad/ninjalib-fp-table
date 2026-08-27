@@ -4,4 +4,5 @@
   (lib (name "ninja_resc")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_resc.pretty")(options "")(descr ""))
   (lib (name "ninja_sot")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_sot.pretty")(options "")(descr ""))
   (lib (name "ninja_custom")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_custom.pretty")(options "")(descr ""))
+  (lib (name "ninja_soic")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_soic.pretty")(options "")(descr ""))
 )

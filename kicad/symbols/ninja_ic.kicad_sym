@@ -1288,7 +1288,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ninja_soic:SOIC127P600X175-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
