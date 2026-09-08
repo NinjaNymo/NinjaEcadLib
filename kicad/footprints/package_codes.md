@@ -8,4 +8,5 @@ All listed compatible package codes has been verified as compatible.
 | SOIC127P790X216-8N   | SOIC-8 Wide Body  | Winbond/SN      |                  |
 | SOT65P210X110-5N     | SOT-353-5/SC-70-5 | TI/DCK          |                  |
 | SOT95P280X120-3N     | SOT-23-3          | Torex/SOT-23    |                  |
+| SOT95P280X145-6N     | SOT-23-6          | ST/SOT23-6L     |                  |
 | SOP254P700X220-4N    | SO-4/SOP-4        | Toshiba/11-4M1S |                  |
