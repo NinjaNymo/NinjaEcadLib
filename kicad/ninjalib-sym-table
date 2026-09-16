@@ -5,4 +5,5 @@
   (lib (name "ninja_ic")(type "KiCad")(uri "${NINJALIB}/symbols/ninja_ic.kicad_sym")(options "")(descr ""))
   (lib (name "ninja_ic_power")(type "KiCad")(uri "${NINJALIB}/symbols/ninja_ic_power.kicad_sym")(options "")(descr ""))
   (lib (name "ninja_connector")(type "KiCad")(uri "${NINJALIB}/symbols/ninja_connector.kicad_sym")(options "")(descr ""))
+  (lib (name "ninja_diode")(type "KiCad")(uri "${NINJALIB}/symbols/ninja_diode.kicad_sym")(options "")(descr ""))
 )

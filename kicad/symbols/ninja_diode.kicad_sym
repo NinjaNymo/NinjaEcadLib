@@ -471,9 +471,6 @@
 		(embedded_fonts no)
 	)
 	(symbol "USBLC6-2SC6"
-		(pin_numbers
-			(hide yes)
-		)
 		(pin_names
 			(offset 1.016)
 			(hide yes)
