@@ -2,7 +2,7 @@
 	(version 20251024)
 	(generator "kicad_symbol_editor")
 	(generator_version "10.0")
-	(symbol "R"
+	(symbol "000_R_Template"
 		(pin_numbers
 			(hide yes)
 		)
@@ -24,7 +24,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0R"
 			(at 0 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67,6 +67,149 @@
 				)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_PN" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tol_pct" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Film_type" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field9" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P_max" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "T_min" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "T_max" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "H_max" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Ninja_ID" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC_Package" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC_PN" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R res resistor"
 			(at 0 0 0)
 			(show_name no)
@@ -78,9 +221,7 @@
 				)
 			)
 		)
-			)
-		)
-		(symbol "R_0_1"
+		(symbol "000_R_Template_0_1"
 			(rectangle
 				(start -1.016 -2.54)
 				(end 1.016 2.54)
@@ -93,7 +234,7 @@
 				)
 			)
 		)
-		(symbol "R_1_1"
+		(symbol "000_R_Template_1_1"
 			(pin passive line
 				(at 0 3.81 270)
 				(length 1.27)
@@ -133,8 +274,8 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "R_6R8_0402_1%_TKF_H400"
-		(extends "R")
+	(symbol "R_2R2_0603_1%_TKF_H550"
+		(extends "000_R_Template")
 		(property "Reference" "R"
 			(at 2.032 0 90)
 			(show_name no)
@@ -145,7 +286,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8"
+		(property "Value" "2.2"
 			(at 0 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -155,7 +296,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ninja_resc:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -166,7 +307,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "file://${NINJADATASHEETs}/UniRoyal_Thick-Film-Chip-Resistors_Rev_3_2019-02-12.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -177,7 +318,7 @@
 				)
 			)
 		)
-		(property "Description" "6.8Ω 0402 1% Thick Film Resistor"
+		(property "Description" "2.2Ω 0603 1% Thick Film Resistor"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -188,7 +329,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Uni-Royal"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -199,7 +340,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_PN" ""
+		(property "Manufacturer_PN" "0603WAF220KT5E"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -221,7 +362,7 @@
 				)
 			)
 		)
-		(property "Film_Type" "Thick Film"
+		(property "Film_type" "Thick Film"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -232,7 +373,7 @@
 				)
 			)
 		)
-		(property "P_max" ""
+		(property "Field9" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -243,7 +384,7 @@
 				)
 			)
 		)
-		(property "T_min" ""
+		(property "P_max" "0.1"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -254,7 +395,7 @@
 				)
 			)
 		)
-		(property "T_max" ""
+		(property "T_min" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -265,7 +406,7 @@
 				)
 			)
 		)
-		(property "H_max" ""
+		(property "T_max" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -276,7 +417,18 @@
 				)
 			)
 		)
-		(property "Package" "0402"
+		(property "H_max" "550"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0603"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -298,7 +450,7 @@
 				)
 			)
 		)
-		(property "JLC_Package" "R0402"
+		(property "JLC_Package" "R0603"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -309,7 +461,7 @@
 				)
 			)
 		)
-		(property "JLC_PN" ""
+		(property "JLC_PN" "C22939"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -329,13 +481,11 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
 			)
 		)
 	)
-	(symbol "R_27R_0402_1%_TKF_H400"
-		(extends "R")
+	(symbol "R_33R_0402_1%_TKF_H400"
+		(extends "000_R_Template")
 		(property "Reference" "R"
 			(at 2.032 0 90)
 			(show_name no)
@@ -346,7 +496,7 @@
 				)
 			)
 		)
-		(property "Value" "27"
+		(property "Value" "33"
 			(at 0 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -356,7 +506,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ninja_resc:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -367,7 +517,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "file://${NINJADATASHEETs}/UniRoyal_Thick-Film-Chip-Resistors_Rev_3_2019-02-12.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -378,7 +528,7 @@
 				)
 			)
 		)
-		(property "Description" "27Ω 0402 1% Thick Film Resistor"
+		(property "Description" "33Ω 0402 1% Thick Film Resistor"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -389,7 +539,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Uni-Royal"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -400,7 +550,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_PN" ""
+		(property "Manufacturer_PN" "0402WGF330JTCE"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -422,7 +572,7 @@
 				)
 			)
 		)
-		(property "Film_Type" "Thick Film"
+		(property "Film_type" "Thick Film"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -433,7 +583,7 @@
 				)
 			)
 		)
-		(property "P_max" ""
+		(property "Field9" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -444,7 +594,7 @@
 				)
 			)
 		)
-		(property "T_min" ""
+		(property "P_max" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -455,7 +605,7 @@
 				)
 			)
 		)
-		(property "T_max" ""
+		(property "T_min" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -466,7 +616,18 @@
 				)
 			)
 		)
-		(property "H_max" ""
+		(property "T_max" "155"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "H_max" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -510,7 +671,7 @@
 				)
 			)
 		)
-		(property "JLC_PN" ""
+		(property "JLC_PN" "C25105"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -530,13 +691,11 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
 			)
 		)
 	)
 	(symbol "R_220R_0402_1%_TKF_H400"
-		(extends "R")
+		(extends "000_R_Template")
 		(property "Reference" "R"
 			(at 2.032 0 90)
 			(show_name no)
@@ -557,7 +716,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ninja_resc:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -568,7 +727,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "file://${NINJADATASHEETs}/UniRoyal_Thick-Film-Chip-Resistors_Rev_3_2019-02-12.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -590,7 +749,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Uni-Royal"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -601,7 +760,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_PN" ""
+		(property "Manufacturer_PN" "0402WGF2200TCE"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -623,7 +782,7 @@
 				)
 			)
 		)
-		(property "Film_Type" "Thick Film"
+		(property "Film_type" "Thick Film"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -634,7 +793,7 @@
 				)
 			)
 		)
-		(property "P_max" ""
+		(property "Field9" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -645,7 +804,7 @@
 				)
 			)
 		)
-		(property "T_min" ""
+		(property "P_max" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -656,7 +815,7 @@
 				)
 			)
 		)
-		(property "T_max" ""
+		(property "T_min" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -667,7 +826,18 @@
 				)
 			)
 		)
-		(property "H_max" ""
+		(property "T_max" "155"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "H_max" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -711,7 +881,7 @@
 				)
 			)
 		)
-		(property "JLC_PN" ""
+		(property "JLC_PN" "C25091"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -733,11 +903,9 @@
 				)
 			)
 		)
-			)
-		)
 	)
 	(symbol "R_1k_0402_1%_TKF_H400"
-		(extends "R")
+		(extends "000_R_Template")
 		(property "Reference" "R"
 			(at 2.032 0 90)
 			(show_name no)
@@ -758,7 +926,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ninja_resc:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -769,7 +937,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "file://${NINJADATASHEETs}/UniRoyal_Thick-Film-Chip-Resistors_Rev_3_2019-02-12.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -791,7 +959,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Uni-Royal"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -802,7 +970,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_PN" ""
+		(property "Manufacturer_PN" "0402WGF1001TCE"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -824,7 +992,7 @@
 				)
 			)
 		)
-		(property "Film_Type" "Thick Film"
+		(property "Film_type" "Thick Film"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -835,7 +1003,7 @@
 				)
 			)
 		)
-		(property "P_max" ""
+		(property "Field9" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -846,7 +1014,7 @@
 				)
 			)
 		)
-		(property "T_min" ""
+		(property "P_max" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -857,7 +1025,7 @@
 				)
 			)
 		)
-		(property "T_max" ""
+		(property "T_min" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -868,7 +1036,18 @@
 				)
 			)
 		)
-		(property "H_max" ""
+		(property "T_max" "155"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "H_max" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -912,7 +1091,7 @@
 				)
 			)
 		)
-		(property "JLC_PN" ""
+		(property "JLC_PN" "C11702"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -934,11 +1113,9 @@
 				)
 			)
 		)
-			)
-		)
 	)
 	(symbol "R_5k1_0402_1%_TKF_H400"
-		(extends "R")
+		(extends "000_R_Template")
 		(property "Reference" "R"
 			(at 2.032 0 90)
 			(show_name no)
@@ -959,7 +1136,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ninja_resc:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -970,7 +1147,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "file://${NINJADATASHEETs}/UniRoyal_Thick-Film-Chip-Resistors_Rev_3_2019-02-12.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -992,7 +1169,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Uni-Royal"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1003,7 +1180,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_PN" ""
+		(property "Manufacturer_PN" "0402WGF5101TCE"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1025,7 +1202,7 @@
 				)
 			)
 		)
-		(property "Film_Type" "Thick Film"
+		(property "Film_type" "Thick Film"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1036,7 +1213,7 @@
 				)
 			)
 		)
-		(property "P_max" ""
+		(property "Field9" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1047,7 +1224,7 @@
 				)
 			)
 		)
-		(property "T_min" ""
+		(property "P_max" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1058,7 +1235,7 @@
 				)
 			)
 		)
-		(property "T_max" ""
+		(property "T_min" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1069,7 +1246,18 @@
 				)
 			)
 		)
-		(property "H_max" ""
+		(property "T_max" "155"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "H_max" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1113,7 +1301,7 @@
 				)
 			)
 		)
-		(property "JLC_PN" ""
+		(property "JLC_PN" "C25905"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1135,11 +1323,219 @@
 				)
 			)
 		)
+	)
+	(symbol "R_10k_0402_1%_TKF_H400"
+		(extends "000_R_Template")
+		(property "Reference" "R"
+			(at 2.032 0 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 0 0 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ninja_resc:RESC1005X40N"
+			(at -1.778 0 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "file://${NINJADATASHEETs}/UniRoyal_Thick-Film-Chip-Resistors_Rev_3_2019-02-12.pdf"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "10kΩ 0402 1% Thick Film Resistor"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Uni-Royal"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_PN" "0402WGF1002TCE"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tol_pct" "1"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Film_type" "Thick Film"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field9" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P_max" "0.0625"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "T_min" "-55"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "T_max" "155"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "H_max" "400"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0402"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Ninja_ID" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC_Package" "R0402"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC_PN" "C25744"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "R res resistor"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 	)
 	(symbol "R_20k_0402_1%_TKF_H400"
-		(extends "R")
+		(extends "000_R_Template")
 		(property "Reference" "R"
 			(at 2.032 0 90)
 			(show_name no)
@@ -1160,7 +1556,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ninja_resc:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1171,7 +1567,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "file://${NINJADATASHEETs}/UniRoyal_Thick-Film-Chip-Resistors_Rev_3_2019-02-12.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1193,7 +1589,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Uni-Royal"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1204,7 +1600,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_PN" ""
+		(property "Manufacturer_PN" "0402WGF2002TCE"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1226,7 +1622,7 @@
 				)
 			)
 		)
-		(property "Film_Type" "Thick Film"
+		(property "Film_type" "Thick Film"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1237,7 +1633,7 @@
 				)
 			)
 		)
-		(property "P_max" ""
+		(property "Field9" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1248,7 +1644,7 @@
 				)
 			)
 		)
-		(property "T_min" ""
+		(property "P_max" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1259,7 +1655,7 @@
 				)
 			)
 		)
-		(property "T_max" ""
+		(property "T_min" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1270,7 +1666,18 @@
 				)
 			)
 		)
-		(property "H_max" ""
+		(property "T_max" "155"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "H_max" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1314,7 +1721,7 @@
 				)
 			)
 		)
-		(property "JLC_PN" ""
+		(property "JLC_PN" "C25765"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1334,8 +1741,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
 			)
 		)
 	)
