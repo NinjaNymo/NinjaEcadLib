@@ -7,4 +7,5 @@
   (lib (name "ninja_soic")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_soic.pretty")(options "")(descr ""))
   (lib (name "ninja_sop")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_sop.pretty")(options "")(descr ""))
   (lib (name "ninja_indc")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_indc.pretty")(options "")(descr ""))
+  (lib (name "ninja_tp")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_tp.pretty")(options "")(descr ""))
 )
