@@ -505,7 +505,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "ninja_custom:Hongli_SMD2835_H750"
+		(property "Footprint" "ninja_custom:SMD2835_H750"
 			(at 0 -45.212 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -795,7 +795,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "ninja_custom:Hongli_SMD2835_H730-REVERSED"
+		(property "Footprint" "ninja_custom:SMD2835_H730_REVERSED"
 			(at 0 -45.212 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1085,7 +1085,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "ninja_custom:Togialed_SMD2835_H1000"
+		(property "Footprint" "ninja_custom:SMD2835_H1000"
 			(at 0 -45.212 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1375,7 +1375,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "ninja_custom:Togialed_SMD2835_H1000"
+		(property "Footprint" "ninja_custom:SMD2835_H1000"
 			(at 0 -45.212 0)
 			(show_name no)
 			(do_not_autoplace no)
