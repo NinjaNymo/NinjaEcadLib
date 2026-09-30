@@ -1,0 +1,186 @@
+(footprint "Honyone_PB26-13M_RGB"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "7-pin RGB variant")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f04883e3-29f6-409f-90f3-f90bdc7bc2c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Honyone_PB26-13M_RGB"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1e6c3ff2-ae2e-4a9c-84f3-c12bbe77877f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77405c8c-76cc-40c3-b6ac-e88eead85ced")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c6cfcca2-1e4d-4230-a0a4-f872eef81a75")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "H_max" "18500"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e0d8c942-b114-452a-93c6-bedc91c57f56")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -7.9 -7.9)
+		(end 7.9 7.9)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "227eaf6f-e46f-4e6d-8371-64040fed8006")
+	)
+	(fp_rect
+		(start -7.65 -7.65)
+		(end 7.65 7.65)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "3a1536e6-9c2e-41aa-83d8-f06f14b02c8a")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 7 0)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "21a351e0-f7da-45fd-92a4-fa327bfe23b5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "99055132-ea36-4aad-a752-ed4c593b90c9")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 5.08 5.08)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "55b9c0a5-2370-4344-9e5d-e64bf58728dd")
+	)
+	(pad "2" thru_hole circle
+		(at 5.08 0)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0cd10b0f-6717-46ab-b8fb-676250531722")
+	)
+	(pad "3" thru_hole circle
+		(at 5.08 -5.08)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1ff1ea3e-7a67-463e-9534-f8490c30200e")
+	)
+	(pad "L1" thru_hole circle
+		(at 1.27 -2.54)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "be38b5f4-c708-495d-9d1d-c9a67c6159e5")
+	)
+	(pad "L2" thru_hole circle
+		(at 1.27 2.54)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "29221854-1b78-4877-8208-8b2ce98f0323")
+	)
+	(pad "L3" thru_hole circle
+		(at -1.27 2.54)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b72a84a3-df82-49df-814c-14983c906ee1")
+	)
+	(pad "L4" thru_hole circle
+		(at -1.27 -2.54)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "75e0f439-670d-4e09-bb81-28f066f283c3")
+	)
+	(embedded_fonts no)
+	(model "${NINJASTEP}/custom/Honyone_PB26-13M_RGB.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
