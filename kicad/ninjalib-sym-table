@@ -10,4 +10,5 @@
   (lib (name "ninja_clk")(type "KiCad")(uri "${NINJALIB}/symbols/ninja_clk.kicad_sym")(options "")(descr ""))
   (lib (name "ninja_inductor")(type "KiCad")(uri "${NINJALIB}/symbols/ninja_inductor.kicad_sym")(options "")(descr ""))
   (lib (name "ninja_tp")(type "KiCad")(uri "${NINJALIB}/symbols/ninja_tp.kicad_sym")(options "")(descr ""))
+  (lib (name "ninja_transistor")(type "KiCad")(uri "${NINJALIB}/symbols/ninja_transistor.kicad_sym")(options "")(descr ""))
 )
