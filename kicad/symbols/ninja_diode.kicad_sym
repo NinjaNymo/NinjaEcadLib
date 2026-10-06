@@ -1663,8 +1663,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "ninja_sod:SODFL365X175X110N"
+			(at 0 -14.732 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
