@@ -1094,7 +1094,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "Kento_KT-0603R_Rev_A-0_2018-12-06.pdf"
+		(property "Datasheet" "file://${NINJADATASHEETs}/Kento_KT-0603R_Rev_A-0_2018-12-06.pdf"
 			(at 0 -9.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1384,7 +1384,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "Kento_KT-0603W_Rev_A-0_2018-12-06.pdf"
+		(property "Datasheet" "file://${NINJADATASHEETs}/Kento_KT-0603W_Rev_A-0_2018-12-06.pdf"
 			(at 0 -9.906 0)
 			(show_name no)
 			(do_not_autoplace no)
