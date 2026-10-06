@@ -30,7 +30,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "ninja_son:SON40P2200X2000X800-11N"
+		(property "Footprint" "ninja_son:SON40P220X200X80-11N"
 			(at 0.254 -53.594 0)
 			(show_name no)
 			(do_not_autoplace no)
