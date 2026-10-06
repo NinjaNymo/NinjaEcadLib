@@ -1083,7 +1083,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ninja_ledc:LEDC1608X70N"
+		(property "Footprint" "ninja_ledc:LEDC1608X70N_Red"
 			(at 0 -9.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1373,7 +1373,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ninja_ledc:LEDC1608X70N"
+		(property "Footprint" "ninja_ledc:LEDC1608X70N_Yellow"
 			(at 0 -9.906 0)
 			(show_name no)
 			(do_not_autoplace no)

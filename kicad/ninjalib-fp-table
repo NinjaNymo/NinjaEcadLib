@@ -9,4 +9,5 @@
   (lib (name "ninja_indc")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_indc.pretty")(options "")(descr ""))
   (lib (name "ninja_tp")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_tp.pretty")(options "")(descr ""))
   (lib (name "ninja_qfp")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_qfp.pretty")(options "")(descr ""))
+  (lib (name "ninja_ledc")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_ledc.pretty")(options "")(descr ""))
 )
