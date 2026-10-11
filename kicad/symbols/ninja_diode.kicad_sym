@@ -2,7 +2,7 @@
 	(version 20251024)
 	(generator "kicad_symbol_editor")
 	(generator_version "10.0")
-	(symbol "000_D_template"
+	(symbol "000_D_Template"
 		(pin_numbers
 			(hide yes)
 		)
@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" ""
 			(at 0 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35,7 +35,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "file://${NINJADATASHEETs}/file.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57,7 +57,7 @@
 				)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "Type Description Power mW Package"
 			(at 0 -6.096 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -101,7 +101,7 @@
 				)
 			)
 		)
-		(property "V_r_max" ""
+		(property "V_r_max_v" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -123,7 +123,7 @@
 				)
 			)
 		)
-		(property "T_min" ""
+		(property "T_min_c" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -134,7 +134,7 @@
 				)
 			)
 		)
-		(property "T_max" ""
+		(property "T_max_c" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -145,7 +145,7 @@
 				)
 			)
 		)
-		(property "H_max" ""
+		(property "H_max_um" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -200,7 +200,18 @@
 				)
 			)
 		)
-		(symbol "000_D_template_0_1"
+		(property "Review_Status" "Preliminary"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "000_D_Template_0_1"
 			(polyline
 				(pts
 					(xy -2.54 12.446) (xy -3.302 11.684) (xy -3.302 11.938) (xy -3.048 11.684) (xy -3.302 11.684)
@@ -322,7 +333,7 @@
 				)
 			)
 		)
-		(symbol "000_D_template_1_1"
+		(symbol "000_D_Template_1_1"
 			(pin passive line
 				(at -3.81 12.7 0)
 				(length 2.54)

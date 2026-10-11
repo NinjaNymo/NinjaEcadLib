@@ -18,7 +18,7 @@
 				)
 			)
 		)
-		(property "Value" "Foo"
+		(property "Value" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "bar"
+		(property "Footprint" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39,7 +39,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "file://${NINJADATASHEETs}/placeholder.pdf"
+		(property "Datasheet" "file://${NINJADATASHEETs}/file.pdf"
 			(at -1.016 -30.226 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50,7 +50,7 @@
 				)
 			)
 		)
-		(property "Description" "bas"
+		(property "Description" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61,7 +61,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "foo"
+		(property "Manufacturer" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -72,7 +72,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_PN" "bar"
+		(property "Manufacturer_PN" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -83,7 +83,7 @@
 				)
 			)
 		)
-		(property "Type" "bas"
+		(property "Type" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -94,7 +94,7 @@
 				)
 			)
 		)
-		(property "Vgs_max" "foo"
+		(property "Vds_max_v" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -105,7 +105,7 @@
 				)
 			)
 		)
-		(property "Id_max_ma" "bar"
+		(property "Id_max_ma" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -116,7 +116,7 @@
 				)
 			)
 		)
-		(property "T_min" "bas"
+		(property "T_min_c" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -127,7 +127,7 @@
 				)
 			)
 		)
-		(property "T_max" "foo"
+		(property "T_max_c" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -138,7 +138,7 @@
 				)
 			)
 		)
-		(property "H_max" "bar"
+		(property "H_max_um" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -149,7 +149,7 @@
 				)
 			)
 		)
-		(property "Package" "bas"
+		(property "Package" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -160,7 +160,7 @@
 				)
 			)
 		)
-		(property "Ninja_ID" "foo"
+		(property "Ninja_ID" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -171,7 +171,7 @@
 				)
 			)
 		)
-		(property "JLC_Package" "bar"
+		(property "JLC_Package" ""
 			(at -0.762 -42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -182,8 +182,19 @@
 				)
 			)
 		)
-		(property "JLC_PN" "bas"
+		(property "JLC_PN" ""
 			(at -0.762 -42.418 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)

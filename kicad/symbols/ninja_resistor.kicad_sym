@@ -15,7 +15,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "R"
-			(at 2.032 0 90)
+			(at 2.032 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24,7 +24,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" ""
 			(at 0 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45,8 +45,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 0)
+		(property "Datasheet" "file://${NINJADATASHEETS}/file.pdf"
+			(at 0.254 -21.844 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -56,8 +56,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 0 0 0)
+		(property "Description" "Value Package Tol_pct Film_type Resistor"
+			(at 0.254 -21.844 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -111,7 +111,7 @@
 				)
 			)
 		)
-		(property "P_max" ""
+		(property "P_max_mw" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -122,7 +122,7 @@
 				)
 			)
 		)
-		(property "T_min" ""
+		(property "T_min_c" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -133,7 +133,7 @@
 				)
 			)
 		)
-		(property "T_max" ""
+		(property "T_max_c" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -144,7 +144,7 @@
 				)
 			)
 		)
-		(property "H_max" ""
+		(property "H_max_um" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -199,8 +199,8 @@
 				)
 			)
 		)
-		(property "ki_keywords" "R res resistor"
-			(at 0 0 0)
+		(property "Review_Status" "Preliminary"
+			(at 0.254 -26.924 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -212,8 +212,8 @@
 		)
 		(symbol "000_R_Template_0_1"
 			(rectangle
-				(start -1.016 -2.54)
-				(end 1.016 2.54)
+				(start -1.016 2.54)
+				(end 1.016 -2.54)
 				(stroke
 					(width 0.254)
 					(type default)
