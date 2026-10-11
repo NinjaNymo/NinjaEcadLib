@@ -569,7 +569,7 @@
 				)
 			)
 		)
-		(property "V_type" "1V8/3V3"
+		(property "V_type_v" "1V8/3V3"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -580,7 +580,7 @@
 				)
 			)
 		)
-		(property "T_min" "-20"
+		(property "T_min_c" "-20"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -591,7 +591,7 @@
 				)
 			)
 		)
-		(property "T_max" "85"
+		(property "T_max_c" "85"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -602,7 +602,7 @@
 				)
 			)
 		)
-		(property "H_max" "900"
+		(property "H_max_um" "900"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -635,7 +635,7 @@
 				)
 			)
 		)
-		(property "JLC_PACKAGE" "LQFN-56(7x7)"
+		(property "JLC_Package" "LQFN-56(7x7)"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -647,6 +647,17 @@
 			)
 		)
 		(property "JLC_PN" "C2040"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1828,7 +1839,7 @@
 				)
 			)
 		)
-		(property "V_type" ""
+		(property "V_type_v" ""
 			(at -0.254 -30.988 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1839,7 +1850,7 @@
 				)
 			)
 		)
-		(property "T_min" "-20"
+		(property "T_min_c" "-20"
 			(at -0.254 -38.862 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1850,7 +1861,7 @@
 				)
 			)
 		)
-		(property "T_max" "100"
+		(property "T_max_c" "100"
 			(at 0 -28.448 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1861,7 +1872,7 @@
 				)
 			)
 		)
-		(property "H_max" "2200"
+		(property "H_max_um" "2200"
 			(at -0.254 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1907,6 +1918,17 @@
 		)
 		(property "JLC_PN" "C261926"
 			(at 0 -33.782 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -2491,7 +2513,7 @@
 				)
 			)
 		)
-		(property "V_type" "1.24~6"
+		(property "V_type_v" "1.24~6"
 			(at -0.254 -55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2502,7 +2524,7 @@
 				)
 			)
 		)
-		(property "T_min" "-40"
+		(property "T_min_c" "-40"
 			(at -0.254 -63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2513,7 +2535,7 @@
 				)
 			)
 		)
-		(property "T_max" "125"
+		(property "T_max_c" "125"
 			(at 0 -53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2524,7 +2546,7 @@
 				)
 			)
 		)
-		(property "H_max" "1100"
+		(property "H_max_um" "1100"
 			(at -0.254 -45.212 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2570,6 +2592,17 @@
 		)
 		(property "JLC_PN" "C2157543"
 			(at 0 -58.674 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -2965,7 +2998,7 @@
 				)
 			)
 		)
-		(property "V_type" "1.8~5.5"
+		(property "V_type_v" "1.8~5.5"
 			(at -0.254 -55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2976,7 +3009,7 @@
 				)
 			)
 		)
-		(property "T_min" "-40"
+		(property "T_min_c" "-40"
 			(at -0.254 -63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2987,7 +3020,7 @@
 				)
 			)
 		)
-		(property "T_max" "125"
+		(property "T_max_c" "125"
 			(at 0 -53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2998,7 +3031,7 @@
 				)
 			)
 		)
-		(property "H_max" "1100"
+		(property "H_max_um" "1100"
 			(at -0.254 -45.212 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3044,6 +3077,17 @@
 		)
 		(property "JLC_PN" "C398357"
 			(at 0 -58.674 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -3266,7 +3310,7 @@
 				)
 			)
 		)
-		(property "V_type" "3V3"
+		(property "V_type_v" "3V3"
 			(at -0.254 -30.988 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3277,7 +3321,7 @@
 				)
 			)
 		)
-		(property "T_min" "-40"
+		(property "T_min_c" "-40"
 			(at -0.254 -38.862 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3288,7 +3332,7 @@
 				)
 			)
 		)
-		(property "T_max" "85"
+		(property "T_max_c" "85"
 			(at 0 -28.448 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3299,7 +3343,7 @@
 				)
 			)
 		)
-		(property "H_max" "2160"
+		(property "H_max_um" "2160"
 			(at -0.254 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3345,6 +3389,17 @@
 		)
 		(property "JLC_PN" "C2456211"
 			(at 0 -33.782 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)

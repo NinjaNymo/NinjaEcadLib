@@ -374,7 +374,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.25"
+		(property "P_max_mw" "0.25"
 			(at -0.254 -30.226 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -385,7 +385,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_min_c" "-55"
 			(at -0.254 -30.226 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -396,7 +396,7 @@
 				)
 			)
 		)
-		(property "T_max" "125"
+		(property "T_max_c" "125"
 			(at -0.254 -30.226 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -407,7 +407,7 @@
 				)
 			)
 		)
-		(property "H_max" "2800"
+		(property "H_max_um" "2800"
 			(at -0.254 -30.226 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -453,6 +453,17 @@
 		)
 		(property "JLC_PN" "C36376"
 			(at -0.254 -30.226 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -667,7 +678,7 @@
 				)
 			)
 		)
-		(property "Field9" ""
+		(property "P_max_mw" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -678,7 +689,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.0625"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -689,7 +700,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_max_c" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -700,18 +711,7 @@
 				)
 			)
 		)
-		(property "T_max" "155"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "H_max" "400"
+		(property "H_max_um" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -756,6 +756,17 @@
 			)
 		)
 		(property "JLC_PN" "C17168"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -878,7 +889,7 @@
 				)
 			)
 		)
-		(property "Field9" ""
+		(property "P_max_mw" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -889,7 +900,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.0625"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -900,7 +911,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_max_c" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -911,18 +922,7 @@
 				)
 			)
 		)
-		(property "T_max" "155"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "H_max" "400"
+		(property "H_max_um" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -967,6 +967,17 @@
 			)
 		)
 		(property "JLC_PN" "C25744"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1089,7 +1100,7 @@
 				)
 			)
 		)
-		(property "Field9" ""
+		(property "P_max_mw" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1100,7 +1111,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.0625"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1111,7 +1122,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_max_c" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1122,18 +1133,7 @@
 				)
 			)
 		)
-		(property "T_max" "155"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "H_max" "400"
+		(property "H_max_um" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1178,6 +1178,17 @@
 			)
 		)
 		(property "JLC_PN" "C25750"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1300,7 +1311,7 @@
 				)
 			)
 		)
-		(property "Field9" ""
+		(property "P_max_mw" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1311,7 +1322,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.0625"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1322,7 +1333,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_max_c" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1333,18 +1344,7 @@
 				)
 			)
 		)
-		(property "T_max" "155"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "H_max" "400"
+		(property "H_max_um" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1389,6 +1389,17 @@
 			)
 		)
 		(property "JLC_PN" "C26083"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1511,7 +1522,7 @@
 				)
 			)
 		)
-		(property "Field9" ""
+		(property "P_max_mw" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1522,7 +1533,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.0625"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1533,7 +1544,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_max_c" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1544,18 +1555,7 @@
 				)
 			)
 		)
-		(property "T_max" "155"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "H_max" "400"
+		(property "H_max_um" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1600,6 +1600,17 @@
 			)
 		)
 		(property "JLC_PN" "C11702"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1722,7 +1733,7 @@
 				)
 			)
 		)
-		(property "Field9" ""
+		(property "P_max_mw" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1733,7 +1744,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.0625"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1744,7 +1755,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_max_c" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1755,18 +1766,7 @@
 				)
 			)
 		)
-		(property "T_max" "155"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "H_max" "400"
+		(property "H_max_um" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1811,6 +1811,17 @@
 			)
 		)
 		(property "JLC_PN" "C25765"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1933,7 +1944,7 @@
 				)
 			)
 		)
-		(property "Field9" ""
+		(property "P_max_mw" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1944,7 +1955,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.0625"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1955,7 +1966,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_max_c" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1966,18 +1977,7 @@
 				)
 			)
 		)
-		(property "T_max" "155"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "H_max" "400"
+		(property "H_max_um" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2022,6 +2022,17 @@
 			)
 		)
 		(property "JLC_PN" "C25091"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2144,7 +2155,7 @@
 				)
 			)
 		)
-		(property "Field9" ""
+		(property "P_max_mw" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2155,7 +2166,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.0625"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2166,7 +2177,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_max_c" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2177,18 +2188,7 @@
 				)
 			)
 		)
-		(property "T_max" "155"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "H_max" "400"
+		(property "H_max_um" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2233,6 +2233,17 @@
 			)
 		)
 		(property "JLC_PN" "C25767"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2355,7 +2366,7 @@
 				)
 			)
 		)
-		(property "Field9" ""
+		(property "P_max_mw" "0.1"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2366,7 +2377,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.1"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2377,7 +2388,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_max_c" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2388,18 +2399,7 @@
 				)
 			)
 		)
-		(property "T_max" "155"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "H_max" "550"
+		(property "H_max_um" "550"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2444,6 +2444,17 @@
 			)
 		)
 		(property "JLC_PN" "C22939"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2566,7 +2577,7 @@
 				)
 			)
 		)
-		(property "Field9" ""
+		(property "P_max_mw" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2577,7 +2588,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.0625"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2588,7 +2599,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_max_c" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2599,18 +2610,7 @@
 				)
 			)
 		)
-		(property "T_max" "155"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "H_max" "400"
+		(property "H_max_um" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2655,6 +2655,17 @@
 			)
 		)
 		(property "JLC_PN" "C25778"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2777,7 +2788,7 @@
 				)
 			)
 		)
-		(property "Field9" ""
+		(property "P_max_mw" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2788,7 +2799,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.0625"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2799,7 +2810,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_max_c" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2810,18 +2821,7 @@
 				)
 			)
 		)
-		(property "T_max" "155"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "H_max" "400"
+		(property "H_max_um" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2866,6 +2866,17 @@
 			)
 		)
 		(property "JLC_PN" "C25105"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2988,7 +2999,7 @@
 				)
 			)
 		)
-		(property "Field9" ""
+		(property "P_max_mw" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2999,7 +3010,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.0625"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3010,7 +3021,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_max_c" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3021,18 +3032,7 @@
 				)
 			)
 		)
-		(property "T_max" "155"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "H_max" "400"
+		(property "H_max_um" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3077,6 +3077,17 @@
 			)
 		)
 		(property "JLC_PN" "C25905"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3199,7 +3210,7 @@
 				)
 			)
 		)
-		(property "Field9" ""
+		(property "P_max_mw" "0.0625"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3210,7 +3221,7 @@
 				)
 			)
 		)
-		(property "P_max" "0.0625"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3221,7 +3232,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_max_c" "155"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3232,18 +3243,7 @@
 				)
 			)
 		)
-		(property "T_max" "155"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "H_max" "400"
+		(property "H_max_um" "400"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3288,6 +3288,17 @@
 			)
 		)
 		(property "JLC_PN" "C25798"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

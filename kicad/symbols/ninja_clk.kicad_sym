@@ -331,7 +331,7 @@
 				)
 			)
 		)
-		(property "T_max" "85"
+		(property "T_max_c" "85"
 			(at 0 -29.972 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -342,7 +342,7 @@
 				)
 			)
 		)
-		(property "T_min" "-40"
+		(property "T_min_c" "-40"
 			(at -0.508 -25.908 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -353,7 +353,7 @@
 				)
 			)
 		)
-		(property "H_max" "800"
+		(property "H_max_um" "800"
 			(at 0 -34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -399,6 +399,17 @@
 		)
 		(property "JLC_PN" "C20625731"
 			(at 0 -38.608 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)

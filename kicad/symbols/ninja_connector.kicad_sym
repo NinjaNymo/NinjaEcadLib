@@ -439,7 +439,7 @@
 				)
 			)
 		)
-		(property "Pitch" "1.50"
+		(property "Pitch_mm" "1.50"
 			(at 0.254 -68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -450,7 +450,7 @@
 				)
 			)
 		)
-		(property "T_min" "-25"
+		(property "T_min_c" "-25"
 			(at 0 -73.914 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -461,7 +461,7 @@
 				)
 			)
 		)
-		(property "T_max" "85"
+		(property "T_max_c" "85"
 			(at 0 -78.232 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -472,7 +472,7 @@
 				)
 			)
 		)
-		(property "H_max" "3700"
+		(property "H_max_um" "3700"
 			(at 0 -63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -518,6 +518,17 @@
 		)
 		(property "JLC_PN" "C72591"
 			(at -0.254 -66.548 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -803,7 +814,7 @@
 				)
 			)
 		)
-		(property "Pitch" "500"
+		(property "Pitch_mm" "500"
 			(at 0.254 -68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -814,7 +825,7 @@
 				)
 			)
 		)
-		(property "T_min" "-30"
+		(property "T_min_c" "-30"
 			(at 0 -73.914 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -825,7 +836,7 @@
 				)
 			)
 		)
-		(property "T_max" "80"
+		(property "T_max_c" "80"
 			(at 0 -78.232 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -836,7 +847,7 @@
 				)
 			)
 		)
-		(property "H_max" "3260"
+		(property "H_max_um" "3260"
 			(at 0 -63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -882,6 +893,17 @@
 		)
 		(property "JLC_PN" "C165948"
 			(at -0.254 -66.548 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)

@@ -462,7 +462,7 @@
 				)
 			)
 		)
-		(property "Manufactrer_PN" "MINI MSK12CO2"
+		(property "Manufacturer_PN" "MINI MSK12CO2"
 			(at -0.254 -59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -484,7 +484,7 @@
 				)
 			)
 		)
-		(property "I_max" "50mA@12V"
+		(property "I_max_ma" "50mA@12V"
 			(at -0.254 -55.118 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -495,7 +495,7 @@
 				)
 			)
 		)
-		(property "T_max" "70"
+		(property "T_max_c" "70"
 			(at -0.254 -48.768 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -506,7 +506,7 @@
 				)
 			)
 		)
-		(property "T_min" "-25"
+		(property "T_min_c" "-25"
 			(at -0.762 -44.704 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -517,7 +517,7 @@
 				)
 			)
 		)
-		(property "H_max" "1400"
+		(property "H_max_um" "1400"
 			(at -0.254 -53.086 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -563,6 +563,17 @@
 		)
 		(property "JLC_PN" "C2681570"
 			(at -0.254 -57.404 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)

@@ -732,7 +732,7 @@
 				)
 			)
 		)
-		(property "I_sat" "0.86"
+		(property "I_sat_ma" "0.86"
 			(at 0 -33.274 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -743,7 +743,7 @@
 				)
 			)
 		)
-		(property "I_max" "1.1"
+		(property "I_max_ma" "1.1"
 			(at 0 -37.084 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -754,7 +754,7 @@
 				)
 			)
 		)
-		(property "R_DC" "0.26"
+		(property "R_DC_mohm" "0.26"
 			(at -0.254 -20.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -765,7 +765,7 @@
 				)
 			)
 		)
-		(property "T_min" "-40"
+		(property "T_min_c" "-40"
 			(at 0 -34.798 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -776,7 +776,7 @@
 				)
 			)
 		)
-		(property "T_max" "125"
+		(property "T_max_c" "125"
 			(at 0 -27.686 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -787,7 +787,7 @@
 				)
 			)
 		)
-		(property "H_max" "1500"
+		(property "H_max_um" "1500"
 			(at 0 -39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -832,6 +832,17 @@
 			)
 		)
 		(property "JLC_PN" "C7497058"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -943,7 +954,7 @@
 				)
 			)
 		)
-		(property "I_sat" ""
+		(property "I_sat_ma" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -954,7 +965,7 @@
 				)
 			)
 		)
-		(property "I_max" "2000"
+		(property "I_max_ma" "2000"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -965,7 +976,7 @@
 				)
 			)
 		)
-		(property "R_DC" "50"
+		(property "R_DC_mohm" "50"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -976,7 +987,7 @@
 				)
 			)
 		)
-		(property "T_min" "-55"
+		(property "T_min_c" "-55"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -987,7 +998,7 @@
 				)
 			)
 		)
-		(property "T_max" "125"
+		(property "T_max_c" "125"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -998,7 +1009,7 @@
 				)
 			)
 		)
-		(property "H_max" "950"
+		(property "H_max_um" "950"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1043,6 +1054,17 @@
 			)
 		)
 		(property "JLC_PN" "C14709"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Review_Status" "Preliminary"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
