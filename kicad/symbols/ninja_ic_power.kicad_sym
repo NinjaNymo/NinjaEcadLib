@@ -1938,7 +1938,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_PN" "TPS61169DCKR"
+		(property "Manufacturer_PN" "TPS61222DCKR"
 			(at -0.254 -15.748 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2048,7 +2048,7 @@
 				)
 			)
 		)
-		(property "Review_Status" "Preliminary"
+		(property "Review_Status" "Approved"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2143,7 +2143,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -10.16 7.62 0)
 				(length 2.54)
 				(name "L"
