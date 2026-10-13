@@ -56,7 +56,7 @@
 			)
 		)
 	)
-	(property "H_max" "18500"
+	(property "H_max_um" "18500"
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
@@ -65,6 +65,18 @@
 			(font
 				(size 1 1)
 				(thickness 0.1)
+			)
+		)
+	)
+	(property "Review_Status" "Preliminary"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0b88bc9b-4f35-41b0-b34b-c13673682cbd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 		)
 	)

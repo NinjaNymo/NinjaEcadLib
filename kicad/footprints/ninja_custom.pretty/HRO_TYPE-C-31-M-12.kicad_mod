@@ -54,11 +54,23 @@
 			)
 		)
 	)
-	(property "H_max" "3260"
+	(property "H_max_um" "3260"
 		(at 0 0 0)
 		(layer "F.CrtYd")
 		(hide yes)
 		(uuid "6bc643d7-c8ae-478a-8749-cad16534fe0d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Review_Status" "Preliminary"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "26f984e9-4382-4cf1-b4e2-e5e15836a8d6")
 		(effects
 			(font
 				(size 1 1)

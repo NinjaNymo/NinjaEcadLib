@@ -56,11 +56,23 @@
 			)
 		)
 	)
-	(property "H_max" "800"
+	(property "H_max_um" "800"
 		(at 0.2 14.72 0)
 		(layer "F.Fab")
 		(hide yes)
 		(uuid "669053d8-8e32-4e92-948a-4e8c16786755")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Review_Status" "Preliminary"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "160e90f9-12c6-4688-bc55-3585183915ef")
 		(effects
 			(font
 				(size 1 1)
