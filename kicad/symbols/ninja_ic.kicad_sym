@@ -2601,8 +2601,8 @@
 				)
 			)
 		)
-		(property "Review_Status" "Preliminary"
-			(at 0 0 0)
+		(property "Review_Status" "Approved"
+			(at 0 -21.336 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -2769,7 +2769,7 @@
 					)
 				)
 			)
-			(text "A/DNU"
+			(text "A/NC"
 				(at 3.81 -5.08 0)
 				(effects
 					(font
