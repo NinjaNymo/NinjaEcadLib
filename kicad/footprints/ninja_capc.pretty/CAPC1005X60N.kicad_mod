@@ -8,7 +8,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "10942a3d-cffb-4082-8da9-27c8d3ae372d")
+		(uuid "8c868cda-6c1e-4454-a109-b54387e97c03")
 		(effects
 			(font
 				(size 1 1)
@@ -21,7 +21,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "2b4c6eca-0fd4-4daa-a5f6-ee4071c2dc18")
+		(uuid "cd27b3ca-dd07-413e-95ca-82cf6c45b96f")
 		(effects
 			(font
 				(size 1 1)
@@ -34,7 +34,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "da229ead-c6ae-4734-9eb0-3213ec113662")
+		(uuid "3eeb865e-3df9-4247-a7c9-844c62e1c449")
 		(effects
 			(font
 				(size 1 1)
@@ -47,7 +47,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "4bfb0f86-7c82-4842-8200-df4d22aaf25c")
+		(uuid "7c0184be-2e7e-4484-9164-3408627efd8f")
 		(effects
 			(font
 				(size 1 1)
@@ -59,7 +59,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "13858320-ddeb-442a-9be1-cc9def02e124")
+		(uuid "aea09050-e169-4ee8-86e3-704e59624d8b")
 		(effects
 			(font
 				(size 1 1)
@@ -67,11 +67,11 @@
 			)
 		)
 	)
-	(property "Review_Status" "Preliminary"
+	(property "Review_Status" "Approved"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "9aca7d56-e948-4ed4-8fdd-497783a8cd72")
+		(uuid "5a648c6c-233b-4537-891c-df6735affeb5")
 		(effects
 			(font
 				(size 1 1)
@@ -91,7 +91,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "654fbe96-b992-4597-906c-4ac367b86f1e")
+		(uuid "e2512294-b1ef-42d2-935f-063b695db72c")
 	)
 	(fp_line
 		(start -0.3 -0.25)
@@ -101,7 +101,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "0a78cbb1-46bd-44c6-b50c-7064a5f56891")
+		(uuid "3d51c5e1-749e-4635-ade0-d54d8e6dbf39")
 	)
 	(fp_line
 		(start 0.3 -0.25)
@@ -111,7 +111,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "b6d904b8-51f5-40d7-92ea-1328c1b2c948")
+		(uuid "f0aaa6a8-5aa7-4717-80e6-5c361d511868")
 	)
 	(fp_rect
 		(start -0.5 -0.25)
@@ -122,13 +122,13 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "44f11a6c-0a2f-4bdd-b00d-45381a4d06c4")
+		(uuid "f9164b16-64f0-4e3d-863a-014f39d969d2")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "a42ad8ce-95ec-4c35-8054-d42dac218130")
+		(uuid "1be00426-2c63-46c0-8a6c-36abd770e04d")
 		(effects
 			(font
 				(size 0.2 0.15)
@@ -142,7 +142,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(solder_mask_margin 0.05)
-		(uuid "eb37612a-ddb3-4121-b2a0-cd15d833b933")
+		(uuid "e85b1bae-7459-4cda-8547-34c03d92b916")
 	)
 	(pad "2" smd roundrect
 		(at 0.5 0)
@@ -150,7 +150,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(solder_mask_margin 0.05)
-		(uuid "322d3709-a09b-4320-a596-83e0350cc5de")
+		(uuid "231b25bd-f496-4971-b1f9-072ad232e0da")
 	)
 	(embedded_fonts no)
 	(model "${NINJASTEP}/capc/CAPC1005X60.step"
