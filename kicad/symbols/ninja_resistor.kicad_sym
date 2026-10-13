@@ -656,7 +656,7 @@
 				)
 			)
 		)
-		(property "Tol_pct" ""
+		(property "Tol_pct" "1"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -678,7 +678,7 @@
 				)
 			)
 		)
-		(property "P_max_mw" "0.0625"
+		(property "P_max_mw" "62.5"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -766,7 +766,7 @@
 				)
 			)
 		)
-		(property "Review_Status" "Preliminary"
+		(property "Review_Status" "Approved"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
