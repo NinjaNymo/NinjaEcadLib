@@ -286,7 +286,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k±20%"
+		(property "Value" "10k"
 			(at 2.54 2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -319,7 +319,7 @@
 				)
 			)
 		)
-		(property "Description" "Potentiometer 10k±20% 4.5x4.5mm SMD"
+		(property "Description" "Potentiometer 10k 4.5x4.5mm SMD"
 			(at -0.508 -24.638 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -352,7 +352,7 @@
 				)
 			)
 		)
-		(property "Tol_pct" "1"
+		(property "Tol_pct" "20"
 			(at -0.254 -22.098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -363,7 +363,7 @@
 				)
 			)
 		)
-		(property "Film_type" ""
+		(property "Film_type" "Cermet"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -374,7 +374,7 @@
 				)
 			)
 		)
-		(property "P_max_mw" "0.25"
+		(property "P_max_mw" "250"
 			(at -0.254 -30.226 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -462,7 +462,7 @@
 				)
 			)
 		)
-		(property "Review_Status" "Preliminary"
+		(property "Review_Status" "Approved"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
