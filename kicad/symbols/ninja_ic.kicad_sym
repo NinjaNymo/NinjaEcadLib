@@ -3086,8 +3086,8 @@
 				)
 			)
 		)
-		(property "Review_Status" "Preliminary"
-			(at 0 0 0)
+		(property "Review_Status" "Approved"
+			(at 24.13 -45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
