@@ -9,7 +9,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "842f4ade-705e-473e-82ae-1c6830d118d2")
+		(uuid "8ab1b9b4-0a5c-45b5-8e4f-e2c518f78348")
 		(effects
 			(font
 				(size 1 1)
@@ -22,7 +22,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "00c91a76-94ee-418e-9dc8-c3de9691bfc0")
+		(uuid "90b9295a-b567-46c3-a888-541fb37c1e7e")
 		(effects
 			(font
 				(size 1 1)
@@ -35,7 +35,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d3b63df7-efe4-4a29-976d-042ca6b74599")
+		(uuid "b20fed18-9a68-426c-8f45-a5554638b8c0")
 		(effects
 			(font
 				(size 1 1)
@@ -48,7 +48,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "2030a963-3167-4215-95ea-eccdd7b771a8")
+		(uuid "9c677f08-d749-48ce-9aa1-6d090d48cbc7")
 		(effects
 			(font
 				(size 1 1)
@@ -60,7 +60,7 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "55af177c-6bfc-462d-bde1-00410909eb94")
+		(uuid "b745a94f-9bc0-414a-8f97-100b3106787a")
 		(effects
 			(font
 				(size 1 1)
@@ -68,11 +68,11 @@
 			)
 		)
 	)
-	(property "Review_Status" "Preliminary"
+	(property "Review_Status" "Approved"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "f38d2f8b-90b2-435b-94b4-d41a57b952cd")
+		(uuid "3d6ca006-68aa-441b-a29f-def43c97bc98")
 		(effects
 			(font
 				(size 1 1)
@@ -92,7 +92,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "a3f23cd6-7d79-4dad-ac14-1c75cf9ad700")
+		(uuid "874f8468-385d-4579-b299-083f83f62c48")
 	)
 	(fp_line
 		(start -1.5 -1.3)
@@ -102,7 +102,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "53dce631-39f6-4d10-8c9e-10b982dc5cc0")
+		(uuid "5a40c1fc-7974-4cdc-bcec-07ed1bf6632a")
 	)
 	(fp_line
 		(start -1.3 -1.5)
@@ -112,7 +112,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "c56c9ea6-e640-4199-aed4-2dbd970f3346")
+		(uuid "01e76547-e606-4e51-8c3a-ac065fce2825")
 	)
 	(fp_line
 		(start -1.3 -1.5)
@@ -122,7 +122,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "577642ff-e902-40bb-b6ce-6d1ac8ad5cd8")
+		(uuid "aa0af091-fbe1-4e42-b77d-979ac4e1707b")
 	)
 	(fp_line
 		(start -1.3 1.5)
@@ -132,7 +132,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "bc3a2ff5-9085-47bd-9a06-254828f11082")
+		(uuid "8f83e519-f531-4ae7-9a39-d73ba1eaa2d1")
 	)
 	(fp_line
 		(start -1.3 1.5)
@@ -142,7 +142,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "a9793255-69cb-4e4e-ab34-93964c62975a")
+		(uuid "4c6c47f1-45a6-47a1-a56b-604efb636ef7")
 	)
 	(fp_line
 		(start 1.3 -1.5)
@@ -152,7 +152,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "af586d32-74e4-4096-8a36-9ef2a4216d2c")
+		(uuid "fb7ac2b0-cb4b-4c3f-9e53-e08de807930a")
 	)
 	(fp_line
 		(start 1.3 1.5)
@@ -162,7 +162,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "d3117472-3e21-432f-9c6e-f201695ede41")
+		(uuid "1223d676-3c10-4314-a651-f6be1ffc1575")
 	)
 	(fp_line
 		(start 1.5 -1.3)
@@ -172,13 +172,13 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "2966fd2e-57ea-4512-8ba4-b27b103735a7")
+		(uuid "a5d02c7f-12ba-4255-b10b-4ce2c0a49ccc")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "1a59abde-6286-4ce0-95c7-3d5a3547005d")
+		(uuid "2f7bc083-75de-4d3e-922a-e8c5521045ff")
 		(effects
 			(font
 				(size 0.75 0.75)
@@ -191,21 +191,21 @@
 		(size 2.7 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.1)
-		(uuid "0bd93588-c816-4744-b568-d16bed478fce")
+		(uuid "780a43a1-c397-4ba5-a954-c0c5e5e42f92")
 	)
 	(pad "2" smd roundrect
 		(at 1.1 0 90)
 		(size 2.7 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.1)
-		(uuid "dd2d0a78-218f-4345-947b-b653c7ca937e")
+		(uuid "5a7eae98-b925-47b5-818d-db801599fa47")
 	)
 	(group ""
-		(uuid "abaacd18-cecf-4d14-85c8-9573724c6dea")
-		(members "2966fd2e-57ea-4512-8ba4-b27b103735a7" "53dce631-39f6-4d10-8c9e-10b982dc5cc0"
-			"577642ff-e902-40bb-b6ce-6d1ac8ad5cd8" "a9793255-69cb-4e4e-ab34-93964c62975a"
-			"af586d32-74e4-4096-8a36-9ef2a4216d2c" "bc3a2ff5-9085-47bd-9a06-254828f11082"
-			"c56c9ea6-e640-4199-aed4-2dbd970f3346" "d3117472-3e21-432f-9c6e-f201695ede41"
+		(uuid "95593bc7-ecea-4ed0-b146-0080de7cd7a1")
+		(members "01e76547-e606-4e51-8c3a-ac065fce2825" "1223d676-3c10-4314-a651-f6be1ffc1575"
+			"4c6c47f1-45a6-47a1-a56b-604efb636ef7" "5a40c1fc-7974-4cdc-bcec-07ed1bf6632a"
+			"8f83e519-f531-4ae7-9a39-d73ba1eaa2d1" "a5d02c7f-12ba-4255-b10b-4ce2c0a49ccc"
+			"aa0af091-fbe1-4e42-b77d-979ac4e1707b" "fb7ac2b0-cb4b-4c3f-9e53-e08de807930a"
 		)
 	)
 	(embedded_fonts no)

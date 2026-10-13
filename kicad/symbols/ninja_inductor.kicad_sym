@@ -678,7 +678,7 @@
 			)
 		)
 		(property "Footprint" "ninja_custom:Bourns_SRN3015"
-			(at 0 0 0)
+			(at 0 -13.208 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -700,7 +700,7 @@
 			)
 		)
 		(property "Description" "6.8uH 3.00x3.00x1.50mm 260mΩ Semi-Shielded Inductor SMD"
-			(at 0 0 0)
+			(at 3.048 -10.668 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -732,7 +732,7 @@
 				)
 			)
 		)
-		(property "I_sat_ma" "0.86"
+		(property "I_sat_ma" "860"
 			(at 0 -33.274 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -743,7 +743,7 @@
 				)
 			)
 		)
-		(property "I_max_ma" "1.1"
+		(property "I_max_ma" "1100"
 			(at 0 -37.084 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -754,7 +754,7 @@
 				)
 			)
 		)
-		(property "R_DC_mohm" "0.26"
+		(property "R_DC_mohm" "260"
 			(at -0.254 -20.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -821,7 +821,7 @@
 			)
 		)
 		(property "JLC_Package" "SMD,3x3mm"
-			(at 0 0 0)
+			(at 0 -29.464 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -832,7 +832,7 @@
 			)
 		)
 		(property "JLC_PN" "C7497058"
-			(at 0 0 0)
+			(at 0.508 -42.164 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -842,8 +842,8 @@
 				)
 			)
 		)
-		(property "Review_Status" "Preliminary"
-			(at 0 0 0)
+		(property "Review_Status" "Approved"
+			(at 0 -22.606 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
