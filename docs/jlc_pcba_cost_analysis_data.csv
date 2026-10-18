@@ -1,0 +1,9 @@
+experiment,description,layers,soldermask,pcba_type,pcb_qty,pcba_qty,bom_lines,extended_lines,parts_per_board,pads_per_board,pcb_price,pcb_engineering_fee,setup_fee,stencil,components,extended_fee,feeder_loading_fee,smt_assembly,nitrogen_reflow,packaging_fee,pcba_total,order_total,cost_per_assembled_board,pcb_build_time,assembly_time,notes
+1,Baseline,2,black,Economic,5,5,15,0,40,80,4.00,0.00,8.24,1.55,6.03,0.00,0.00,0.83,0.91,0.00,17.56,21.56,4.31,24 hours,1-2 days,Basic and Extended Promotional parts only
+2,Exp 1 minus 2 BOM lines,2,black,Economic,5,5,13,0,30,60,4.00,0.00,8.24,1.55,5.94,0.00,0.00,0.66,0.91,0.00,17.30,21.30,4.26,24 hours,1-2 days,10 parts / 20 pads removed per board
+3,Exp 2 at 10 boards,2,black,Economic,10,10,13,0,30,60,5.00,0.00,8.24,1.55,11.76,0.00,0.00,1.12,0.99,0.00,23.66,28.66,2.87,3 days,1-2 days,
+4,Exp 1 with 2 assembled,2,black,Economic,5,2,15,0,40,80,4.00,0.00,8.24,1.55,2.48,0.00,0.00,0.46,0.86,0.00,13.59,17.59,8.80,3 days,1-2 days,
+5,Exp 4 plus 1 Extended part,2,black,Economic,5,2,16,1,41,86,4.00,0.00,8.24,1.55,4.03,3.09,0.00,0.48,0.86,0.00,18.25,22.25,11.13,3 days,1-2 days,Extended part: 6 pads at $0.7739; PCB price not shown in quote and assumed equal to Exp 4
+6,Exp 5 plus a 2nd Extended part,2,black,Economic,5,2,17,2,42,97,4.00,0.00,8.24,1.55,7.12,6.18,0.00,0.51,0.86,0.00,24.46,28.46,14.23,3 days,1-2 days,2nd Extended part: 11 pads at $1.5477
+7,Exp 1 on 4-layer green,4,green,Economic,5,5,15,0,40,80,8.00,0.00,8.24,1.55,6.03,0.00,0.00,0.83,0.91,0.00,17.56,25.56,5.11,3 days,3-4 days,Black mask on 4-layer is +$8 and disables Economic PCBA
+8,Exp 7 with Standard PCBA,4,green,Standard,5,5,15,0,40,80,31.80,25.00,25.75,8.27,7.62,0.00,23.25,1.29,0.00,0.51,66.69,98.49,19.70,3 days,3-4 days,PCB special offer lost; $6.80 board + $25.00 engineering fee; feeder loading $1.55 per BOM line
