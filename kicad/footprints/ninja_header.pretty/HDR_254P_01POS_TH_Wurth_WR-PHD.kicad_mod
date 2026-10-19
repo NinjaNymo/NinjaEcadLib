@@ -1,0 +1,342 @@
+(footprint "HDR_254P_01POS_TH_Wurth_WR-PHD"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0471faeb-d452-464c-b131-5f6b956a7fbe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "HDR_254P_01POS_TH_Wurth_WR-PHD"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b96d6b72-f389-4686-8ed0-aa6928afdc91")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9c7939d3-8e81-4a9c-bdf6-366906921c64")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Generic Header 2.54mm Pitch TH Wurth WR-PHD"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5196fa84-5dbf-4063-9c38-9c79ade12323")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "H_max_um" "8740"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "94f2cb49-65ed-4d77-825b-4f47040c4db7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Review_State" "Preliminary"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a8ba8938-85c8-4d07-a59f-d9b697dd2a01")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(solder_mask_margin 0.05)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -1.55 -1.55)
+		(end 1.55 1.55)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "ca377ea9-3e48-4d86-b7cf-6ecf2a218322")
+	)
+	(fp_line
+		(start -1.27 0.77)
+		(end -1.27 -0.77)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "038e6f85-4ac2-44b6-8ff3-55f775289aad")
+	)
+	(fp_line
+		(start -1.02 -1.27)
+		(end -1.27 -0.77)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "7e7c066d-149b-4a76-a577-6e9ea51b13ee")
+	)
+	(fp_line
+		(start -1.02 1.27)
+		(end -1.27 0.77)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "0789c122-786d-46db-8f0b-bc2acd482568")
+	)
+	(fp_line
+		(start -0.32 -0.32)
+		(end 0.32 -0.32)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "9cf62106-3d0f-4e3e-ab74-84f33eb702cd")
+	)
+	(fp_line
+		(start -0.32 0.32)
+		(end -0.32 -0.32)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "0a36f4bc-850c-42d3-84d9-f3c95d74e49c")
+	)
+	(fp_line
+		(start -0.32 0.32)
+		(end -0.12 0.12)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "07dbdb24-ab40-496d-9325-b3138f3e9792")
+	)
+	(fp_line
+		(start -0.12 -0.12)
+		(end -0.32 -0.32)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "fe22ec2c-7e5d-4f25-891c-516d93b903b5")
+	)
+	(fp_line
+		(start -0.12 -0.12)
+		(end -0.12 0.12)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "b5c3a297-9cfc-4151-9dba-09e0d46eeb7d")
+	)
+	(fp_line
+		(start -0.12 0.12)
+		(end 0.12 0.12)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "b6d8496d-2a94-4a5a-bb1f-c4034f1cd94a")
+	)
+	(fp_line
+		(start 0.12 -0.12)
+		(end -0.12 -0.12)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "63faa7e3-d6bc-4f43-bebc-e8c077256445")
+	)
+	(fp_line
+		(start 0.12 -0.12)
+		(end 0.32 -0.32)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "2569227c-2658-4a61-bf5d-d3b473826e91")
+	)
+	(fp_line
+		(start 0.12 0.12)
+		(end 0.12 -0.12)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "62a3ea29-b9e4-4cc1-91e4-21f54d1aa7bb")
+	)
+	(fp_line
+		(start 0.32 -0.32)
+		(end 0.32 0.32)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "a3a35682-7987-4969-baa9-8e345433ffa9")
+	)
+	(fp_line
+		(start 0.32 0.32)
+		(end -0.32 0.32)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "3d7b8e30-de6f-4588-b998-83135d9ba12a")
+	)
+	(fp_line
+		(start 0.32 0.32)
+		(end 0.12 0.12)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "622c6153-3fb6-4a22-992b-5a7756f32d25")
+	)
+	(fp_line
+		(start 1.02 -1.27)
+		(end -1.02 -1.27)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "6548b0bc-96b2-487b-8568-9a23fa90db0b")
+	)
+	(fp_line
+		(start 1.02 -1.27)
+		(end 1.27 -0.77)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "dbfc89a2-7e67-4b1e-803c-d649f5b4610d")
+	)
+	(fp_line
+		(start 1.02 1.27)
+		(end -1.02 1.27)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "9ce8e3ce-2b72-43db-b9b1-4bab0883fea7")
+	)
+	(fp_line
+		(start 1.02 1.27)
+		(end 1.27 0.77)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "fa9cdaff-f1be-40e5-b2fe-f448a8f4a76d")
+	)
+	(fp_line
+		(start 1.27 0.77)
+		(end 1.27 -0.77)
+		(stroke
+			(width 0.000001)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "298dc552-b1f3-4f36-8058-dfd7ca4fdfc1")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "470a600c-8157-4541-be5b-aeba4e3e8349")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.05)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9e99027b-8bdc-4d38-9700-f4695c033356")
+	)
+	(group ""
+		(uuid "0926cf21-1759-4c4f-b736-7ba2720738d5")
+		(members "038e6f85-4ac2-44b6-8ff3-55f775289aad" "0789c122-786d-46db-8f0b-bc2acd482568"
+			"07dbdb24-ab40-496d-9325-b3138f3e9792" "0a36f4bc-850c-42d3-84d9-f3c95d74e49c"
+			"2569227c-2658-4a61-bf5d-d3b473826e91" "298dc552-b1f3-4f36-8058-dfd7ca4fdfc1"
+			"3d7b8e30-de6f-4588-b998-83135d9ba12a" "622c6153-3fb6-4a22-992b-5a7756f32d25"
+			"62a3ea29-b9e4-4cc1-91e4-21f54d1aa7bb" "63faa7e3-d6bc-4f43-bebc-e8c077256445"
+			"6548b0bc-96b2-487b-8568-9a23fa90db0b" "7e7c066d-149b-4a76-a577-6e9ea51b13ee"
+			"9ce8e3ce-2b72-43db-b9b1-4bab0883fea7" "9cf62106-3d0f-4e3e-ab74-84f33eb702cd"
+			"a3a35682-7987-4969-baa9-8e345433ffa9" "b5c3a297-9cfc-4151-9dba-09e0d46eeb7d"
+			"b6d8496d-2a94-4a5a-bb1f-c4034f1cd94a" "dbfc89a2-7e67-4b1e-803c-d649f5b4610d"
+			"fa9cdaff-f1be-40e5-b2fe-f448a8f4a76d" "fe22ec2c-7e5d-4f25-891c-516d93b903b5"
+		)
+	)
+	(embedded_fonts no)
+	(model "${NINJASTEP}/header/HDR_254P_01POS_TH_Wurth_WR-PHD.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
