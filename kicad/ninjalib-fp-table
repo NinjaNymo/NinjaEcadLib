@@ -12,4 +12,5 @@
   (lib (name "ninja_ledc")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_ledc.pretty")(options "")(descr ""))
   (lib (name "ninja_son")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_son.pretty")(options "")(descr ""))
   (lib (name "ninja_sod")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_sod.pretty")(options "")(descr ""))
+  (lib (name "ninja_header")(type "KiCad")(uri "${NINJALIB}/footprints/ninja_header.pretty")(options "")(descr ""))
 )
