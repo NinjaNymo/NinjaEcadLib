@@ -118,9 +118,7 @@
         "description": "",
         "exclude_dnp": false,
         "field_delimiter": ",",
-        "fields_group_by": [
-          "JLC_PN"
-        ],
+        "fields_group_by": [],
         "fields_labels": [
           "Designator",
           "Comment",
