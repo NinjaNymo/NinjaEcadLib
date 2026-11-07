@@ -1406,7 +1406,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "USB4085"
+	(symbol "USB4085-GF-A"
 		(pin_names
 			(offset 1.016)
 		)
@@ -1437,7 +1437,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "ninja_custom:GCT_USB4085"
+		(property "Footprint" "ninja_custom:GCT_USB4085-GF-A"
 			(at 0 -71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1547,7 +1547,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "TH"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1602,7 +1602,7 @@
 				)
 			)
 		)
-		(symbol "USB4085_0_1"
+		(symbol "USB4085-GF-A_0_1"
 			(rectangle
 				(start -10.16 33.02)
 				(end 10.16 -33.02)
@@ -1803,7 +1803,7 @@
 				)
 			)
 		)
-		(symbol "USB4085_1_1"
+		(symbol "USB4085-GF-A_1_1"
 			(pin passive line
 				(at 17.78 -22.86 180)
 				(length 7.62)
