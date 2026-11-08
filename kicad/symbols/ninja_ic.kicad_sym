@@ -1013,7 +1013,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "file://${NINJADATASHEETS}/file.pdf"
+		(property "Datasheet" "file://${NINJADATASHEETS}/Microchip_AVR64DU32_Rev_B_2026-06-00.pdf"
 			(at 0.254 -77.978 0)
 			(show_name no)
 			(do_not_autoplace no)
