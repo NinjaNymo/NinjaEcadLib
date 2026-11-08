@@ -11,6 +11,12 @@ All listed compatible package codes has been verified as compatible.
 | SOT95P280X145-6N        | SOT-23-6          | ST/SOT23-6L      |                  |
 | SOP254P700X220-4N       | SO-4/SOP-4        | Toshiba/11-4M1S  |                  |
 | QFP80P1200X1200X120-44N | QFP-44            | Microchip/TQFP44 |                  |
+| SOP65P640X120-24N       | TSSOP-24          | TI/PW            |                  |
+| QFP80P900X900X120-32N   | TQFP-32           | Microchip/PT     |                  |
+| QFP50P900X900X160-48N   | LQFP-48           | ST/LQFP48/5B     |                  |
+
+
+
 
 ## Notes
 
